@@ -1,0 +1,44 @@
+#franja_negra{
+    background-color: black;
+    color: white;
+    text-align: center;
+    line-height: 300%;
+    width: 100%;
+    height: 5%;
+    position: fixed;
+    top: 0;
+}
+
+#logo{
+    width: 15%;
+    margin-top: 3%;
+    
+}
+
+#texto_inicial{
+    text-align: center;
+    font-size: 170%;
+
+}
+
+#texto_inicial_2 {
+    text-align: center;
+    margin-top: 1%;
+    font-size: 120%;
+}
+
+#productos {
+    font-size: 115%;
+    margin-top: 6%;
+}
+
+img {
+    width: 90%;
+    height: 90%;
+}
+
+tr {
+    text-align: center;
+    width: 20%;
+    height: 20%;
+}
